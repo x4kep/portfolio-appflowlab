@@ -8,7 +8,7 @@ import { GridBackground } from "./ui/BackgroundGrid";
 const Hero = () => {
   return (
     <div className="pb-20 pt-36">
-      <div>
+      <div className="h-screen w-full absolute">
         {/**
          *  UI: Spotlights
          *  Link: https://ui.aceternity.com/components/spotlight
