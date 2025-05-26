@@ -7,7 +7,7 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "App flow lab",
+  title: "Appflowlab",
   description: "Create SaaS React Native aplications in days",
 };
 
