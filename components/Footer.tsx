@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer className="w-full pt-20 pb-10" id="contact">
       {/* background grid */}
-      <div className="w-full absolute left-0 -bottom-72 min-h-96">
+      <div className="w-full absolute left-0 -bottom-10 min-h-96">
         <img
           src="/footer-grid.svg"
           alt="grid"
@@ -32,8 +32,8 @@ const Footer = () => {
           />
         </a>
       </div>
-      <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
-        <p className="md:text-base text-sm md:font-normal font-light">
+      <div className="flex mt-16 flex-col-reverse md:flex-row justify-between items-center">
+        <p className="md:text-base text-sm md:font-normal font-light mt-6">
           Copyright © 2025 Dusan Veselinovic
         </p>
 
