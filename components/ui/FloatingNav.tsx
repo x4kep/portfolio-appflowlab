@@ -9,6 +9,7 @@ import {
 } from "framer-motion";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
+import Image from "next/image";
 
 export const FloatingNav = ({
   navItems,
@@ -72,6 +73,7 @@ export const FloatingNav = ({
           border: "1px solid rgba(255, 255, 255, 0.125)",
         }}
       >
+        <Image src="/appflowlab-logo.png" alt="Logo" width={24} height={24} />
         {navItems.map((navItem: any, idx: number) => (
           <Link
             key={`link=${idx}`}
