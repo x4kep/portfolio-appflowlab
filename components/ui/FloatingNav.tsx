@@ -73,7 +73,7 @@ export const FloatingNav = ({
           border: "1px solid rgba(255, 255, 255, 0.125)",
         }}
       >
-        <Image src="/appflowlab-logo.png" alt="Logo" width={24} height={24} />
+        <Image src="/appflowlab-logo.png" alt="Logo" width={32} height={32} />
         {navItems.map((navItem: any, idx: number) => (
           <Link
             key={`link=${idx}`}
