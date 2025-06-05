@@ -3,7 +3,9 @@ import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 import { MagicButton } from "./ui/MagicButton";
 import { FaLocationArrow } from "react-icons/fa6";
-import { GridBackground } from "./ui/BackgroundGrid";
+// import { GridBackground } from "./ui/BackgroundGrid";
+import { ShootingStars } from "./ui/ShootingStar";
+import { StarsBackground } from "./ui/StarsBackground";
 
 const Hero = () => {
   return (
@@ -53,8 +55,9 @@ const Hero = () => {
           </a>
         </div>
       </div>
-
-      <GridBackground />
+      {/* <GridBackground /> */}
+      <ShootingStars />
+      <StarsBackground />
     </div>
   );
 };
