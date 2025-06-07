@@ -7,7 +7,7 @@ import Clients from "@/components/Clients";
 import Experience from "@/components/Experience";
 import Approach from "@/components/Approach";
 import Footer from "@/components/Footer";
-import SplashCursor from "@/jsrepo_modules/SplashCursor/SplashCursor";
+// import SplashCursor from "@/jsrepo_modules/SplashCursor/SplashCursor";
 
 export default function Home() {
   return (
@@ -21,7 +21,7 @@ export default function Home() {
         <Experience />
         <Approach />
         <Footer />
-        <SplashCursor />
+        {/* <SplashCursor /> */}
       </div>
     </main>
   );
