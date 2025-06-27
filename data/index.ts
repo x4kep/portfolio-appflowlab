@@ -8,7 +8,8 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "Collaborate closely with clients to plan MVPs, design UI/UX, conduct research, build SaaS solutions, write clean code, and continuously improve the product.",
+    title:
+      "Collaborate closely with clients to plan MVPs, design UI/UX, conduct research, build SaaS solutions, write clean code, and continuously improve the product.",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -107,33 +108,21 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Dusan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Dusan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    name: "David Edwards",
+    title: "Director of Automed",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Dusan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Dusan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    name: "David Edwards",
+    title: "Director of Automed",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Dusan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Dusan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    name: "David Edwards",
+    title: "Director of Automed",
   },
 ];
 
@@ -205,16 +194,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    url: "https://github.com/x4kep"
+    url: "https://github.com/x4kep",
   },
   {
     id: 2,
     img: "/twit.svg",
-    url: "https://x.com/DusanVeselino12"
+    url: "https://x.com/DusanVeselino12",
   },
   {
     id: 3,
     img: "/link.svg",
-    url: "https://www.linkedin.com/in/dusanveselinovic/"
+    url: "https://www.linkedin.com/in/dusanveselinovic/",
   },
 ];
