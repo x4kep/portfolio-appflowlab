@@ -38,7 +38,7 @@ const Hero = () => {
            *  change md:text-6xl, add more responsive code
            */}
           <TextGenerateEffect
-            words="From Vision to Value: Designing Better SaaS"
+            words="React Native App Development: Company for Startups & SaaS"
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 

@@ -7,8 +7,8 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Appflowlab",
-  description: "Create SaaS React Native aplications in days",
+  title: "React Native App Development Company – Appflowlab",
+  description: "Appflowlab offers full-service React Native app development services for startups and businesses. MVPs, custom mobile apps, and scalable solutions delivered fast.",
 };
 
 export default function RootLayout({
